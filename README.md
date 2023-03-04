@@ -9,7 +9,7 @@ client_prog
 -->hi enter
 
 server_prog
-Connection from: ('192.168.56.1', 59168)
+Connection from: ('192.168.X.X', 59168)
 from connected user: hi
  --> how are you
 
